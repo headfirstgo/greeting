@@ -1,4 +1,3 @@
-// Package deutsch welcomes users auf Deutsch.
 package deutsch
 
 import "fmt"

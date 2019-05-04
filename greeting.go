@@ -1,4 +1,4 @@
-// Package greeting greets the user.
+// Package greeting greets the user in English.
 package greeting
 
 import "fmt"

@@ -1,4 +1,4 @@
-// Package dansk greets the user.
+// Package dansk greets the user in Danish.
 package dansk
 
 import "fmt"

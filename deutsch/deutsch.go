@@ -1,4 +1,4 @@
-// Package deutsch greets the user.
+// Package deutsch greets the user in German.
 package deutsch
 
 import "fmt"
